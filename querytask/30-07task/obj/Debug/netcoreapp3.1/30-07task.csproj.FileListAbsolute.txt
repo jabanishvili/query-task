@@ -1,0 +1,12 @@
+/Users/admin/Projects/30-07task/30-07task/bin/Debug/netcoreapp3.1/30-07task.deps.json
+/Users/admin/Projects/30-07task/30-07task/bin/Debug/netcoreapp3.1/30-07task.runtimeconfig.json
+/Users/admin/Projects/30-07task/30-07task/bin/Debug/netcoreapp3.1/30-07task.runtimeconfig.dev.json
+/Users/admin/Projects/30-07task/30-07task/bin/Debug/netcoreapp3.1/30-07task.dll
+/Users/admin/Projects/30-07task/30-07task/bin/Debug/netcoreapp3.1/30-07task.pdb
+/Users/admin/Projects/30-07task/30-07task/obj/Debug/netcoreapp3.1/30-07task.csproj.AssemblyReference.cache
+/Users/admin/Projects/30-07task/30-07task/obj/Debug/netcoreapp3.1/30-07task.AssemblyInfoInputs.cache
+/Users/admin/Projects/30-07task/30-07task/obj/Debug/netcoreapp3.1/30-07task.AssemblyInfo.cs
+/Users/admin/Projects/30-07task/30-07task/obj/Debug/netcoreapp3.1/30-07task.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/30-07task/30-07task/obj/Debug/netcoreapp3.1/30-07task.dll
+/Users/admin/Projects/30-07task/30-07task/obj/Debug/netcoreapp3.1/30-07task.pdb
+/Users/admin/Projects/30-07task/30-07task/obj/Debug/netcoreapp3.1/30-07task.genruntimeconfig.cache

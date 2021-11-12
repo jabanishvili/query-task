@@ -1,0 +1,12 @@
+/Users/admin/Projects/query/query/obj/Debug/netcoreapp3.1/query.AssemblyInfoInputs.cache
+/Users/admin/Projects/query/query/obj/Debug/netcoreapp3.1/query.AssemblyInfo.cs
+/Users/admin/Projects/query/query/obj/Debug/netcoreapp3.1/query.csproj.CoreCompileInputs.cache
+/Users/admin/Projects/query/query/bin/Debug/netcoreapp3.1/query.deps.json
+/Users/admin/Projects/query/query/bin/Debug/netcoreapp3.1/query.runtimeconfig.json
+/Users/admin/Projects/query/query/bin/Debug/netcoreapp3.1/query.runtimeconfig.dev.json
+/Users/admin/Projects/query/query/bin/Debug/netcoreapp3.1/query.dll
+/Users/admin/Projects/query/query/bin/Debug/netcoreapp3.1/query.pdb
+/Users/admin/Projects/query/query/obj/Debug/netcoreapp3.1/query.dll
+/Users/admin/Projects/query/query/obj/Debug/netcoreapp3.1/query.pdb
+/Users/admin/Projects/query/query/obj/Debug/netcoreapp3.1/query.genruntimeconfig.cache
+/Users/admin/Projects/query/query/obj/Debug/netcoreapp3.1/query.csproj.AssemblyReference.cache
